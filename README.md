@@ -1,4 +1,4 @@
-# 📘 README.md — Rabin–Karp Algorithm (Menu Driven, Java)
+# 📘Rabin–Karp Algorithm (Menu Driven, Java)
 
 ## 📌 Overview
 
